@@ -1,0 +1,10 @@
+*.aoe2record
+SP*.mgx2
+MP*.mgx2
+multi/
+*.msx2
+*.msx
+*.gax
+*.aoe2spgame
+*.aoe2mptemp
+*.tmsx2
